@@ -1,1 +1,1 @@
-web: gunicorn pontosturisticos.wsgi
+web: gunicorn pontos_turisticos.wsgi
